@@ -1,0 +1,14 @@
+The HYG Database
+https://github.com/astronexus/HYG-Database
+
+Copyright (c) David Nash / Astronexus.
+
+Licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License (CC BY-SA 4.0).
+https://creativecommons.org/licenses/by-sa/4.0/
+
+The star catalogue shipped with this application is derived from the HYG
+Database version 4.1, filtered to magnitude 7.0 and repacked into a binary
+format. The share-alike term applies to the database itself; it is honoured
+by this notice and by the database remaining available under the same terms
+from the address above.

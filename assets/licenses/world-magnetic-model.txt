@@ -1,0 +1,17 @@
+World Magnetic Model 2025 (WMM2025)
+
+Coefficients produced jointly by the US National Centers for Environmental
+Information (NCEI) and the British Geological Survey (BGS), and distributed by
+NCEI on behalf of the US National Geospatial-Intelligence Agency and by BGS on
+behalf of the UK Defence Geographic Centre.
+
+https://www.ncei.noaa.gov/products/world-magnetic-model
+
+The model is released for public use. This application embeds the WMM2025
+Gauss coefficients, valid from 2025.0 to 2030.0, and evaluates them to obtain
+the magnetic declination used to correct the device compass to true north.
+Outside that window the application reports the value as out of date rather
+than using it silently.
+
+The World Magnetic Model and the associated software and documentation are in
+the public domain and are not subject to copyright protection.

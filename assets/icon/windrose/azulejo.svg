@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs>
+    <radialGradient id="pool" cx="50%" cy="50%" r="62%">
+      <stop offset="0" stop-color="#123A6E"/>
+      <stop offset="1" stop-color="#1B4C8C"/>
+    </radialGradient>
+  </defs>
+  <rect width="1024" height="1024" fill="#F6F3EA"/>
+  <rect x="46" y="46" width="932" height="932" fill="none" stroke="#1B4C8C" stroke-width="13"/>
+  <rect x="74" y="74" width="876" height="876" fill="none" stroke="#1B4C8C" stroke-width="5" opacity="0.65"/>
+  <circle cx="110" cy="110" r="17" fill="none" stroke="#1B4C8C" stroke-width="6"/>
+  <circle cx="110" cy="110" r="6" fill="#1B4C8C"/>
+  <circle cx="914" cy="110" r="17" fill="none" stroke="#1B4C8C" stroke-width="6"/>
+  <circle cx="914" cy="110" r="6" fill="#1B4C8C"/>
+  <circle cx="110" cy="914" r="17" fill="none" stroke="#1B4C8C" stroke-width="6"/>
+  <circle cx="110" cy="914" r="6" fill="#1B4C8C"/>
+  <circle cx="914" cy="914" r="17" fill="none" stroke="#1B4C8C" stroke-width="6"/>
+  <circle cx="914" cy="914" r="6" fill="#1B4C8C"/>
+  <circle cx="512.0" cy="512.0" r="322" fill="none" stroke="#1B4C8C" stroke-width="7" opacity="0.5"/>
+  <path d="M 512.0 164.0 L 458.0 512.0 L 512.0 512.0 Z" fill="#F6F3EA" stroke="#1B4C8C" stroke-width="5"/>
+  <path d="M 512.0 164.0 L 566.0 512.0 L 512.0 512.0 Z" fill="url(#pool)"/>
+  <path d="M 860.0 512.0 L 512.0 458.0 L 512.0 512.0 Z" fill="#F6F3EA" stroke="#1B4C8C" stroke-width="5"/>
+  <path d="M 860.0 512.0 L 512.0 566.0 L 512.0 512.0 Z" fill="url(#pool)"/>
+  <path d="M 512.0 860.0 L 566.0 512.0 L 512.0 512.0 Z" fill="#F6F3EA" stroke="#1B4C8C" stroke-width="5"/>
+  <path d="M 512.0 860.0 L 458.0 512.0 L 512.0 512.0 Z" fill="url(#pool)"/>
+  <path d="M 164.0 512.0 L 512.0 566.0 L 512.0 512.0 Z" fill="#F6F3EA" stroke="#1B4C8C" stroke-width="5"/>
+  <path d="M 164.0 512.0 L 512.0 458.0 L 512.0 512.0 Z" fill="url(#pool)"/>
+  <path d="M 690.2 333.8 L 482.3 482.3 L 512.0 512.0 Z" fill="#F6F3EA" stroke="#1B4C8C" stroke-width="5"/>
+  <path d="M 690.2 333.8 L 541.7 541.7 L 512.0 512.0 Z" fill="url(#pool)"/>
+  <path d="M 690.2 690.2 L 541.7 482.3 L 512.0 512.0 Z" fill="#F6F3EA" stroke="#1B4C8C" stroke-width="5"/>
+  <path d="M 690.2 690.2 L 482.3 541.7 L 512.0 512.0 Z" fill="url(#pool)"/>
+  <path d="M 333.8 690.2 L 541.7 541.7 L 512.0 512.0 Z" fill="#F6F3EA" stroke="#1B4C8C" stroke-width="5"/>
+  <path d="M 333.8 690.2 L 482.3 482.3 L 512.0 512.0 Z" fill="url(#pool)"/>
+  <path d="M 333.8 333.8 L 482.3 541.7 L 512.0 512.0 Z" fill="#F6F3EA" stroke="#1B4C8C" stroke-width="5"/>
+  <path d="M 333.8 333.8 L 541.7 482.3 L 512.0 512.0 Z" fill="url(#pool)"/>
+  <path d="M 576.3 356.8 L 489.8 502.8 L 512.0 512.0 Z" fill="#F6F3EA" stroke="#1B4C8C" stroke-width="5"/>
+  <path d="M 576.3 356.8 L 534.2 521.2 L 512.0 512.0 Z" fill="url(#pool)"/>
+  <path d="M 667.2 447.7 L 502.8 489.8 L 512.0 512.0 Z" fill="#F6F3EA" stroke="#1B4C8C" stroke-width="5"/>
+  <path d="M 667.2 447.7 L 521.2 534.2 L 512.0 512.0 Z" fill="url(#pool)"/>
+  <path d="M 667.2 576.3 L 521.2 489.8 L 512.0 512.0 Z" fill="#F6F3EA" stroke="#1B4C8C" stroke-width="5"/>
+  <path d="M 667.2 576.3 L 502.8 534.2 L 512.0 512.0 Z" fill="url(#pool)"/>
+  <path d="M 576.3 667.2 L 534.2 502.8 L 512.0 512.0 Z" fill="#F6F3EA" stroke="#1B4C8C" stroke-width="5"/>
+  <path d="M 576.3 667.2 L 489.8 521.2 L 512.0 512.0 Z" fill="url(#pool)"/>
+  <path d="M 447.7 667.2 L 534.2 521.2 L 512.0 512.0 Z" fill="#F6F3EA" stroke="#1B4C8C" stroke-width="5"/>
+  <path d="M 447.7 667.2 L 489.8 502.8 L 512.0 512.0 Z" fill="url(#pool)"/>
+  <path d="M 356.8 576.3 L 521.2 534.2 L 512.0 512.0 Z" fill="#F6F3EA" stroke="#1B4C8C" stroke-width="5"/>
+  <path d="M 356.8 576.3 L 502.8 489.8 L 512.0 512.0 Z" fill="url(#pool)"/>
+  <path d="M 356.8 447.7 L 502.8 534.2 L 512.0 512.0 Z" fill="#F6F3EA" stroke="#1B4C8C" stroke-width="5"/>
+  <path d="M 356.8 447.7 L 521.2 489.8 L 512.0 512.0 Z" fill="url(#pool)"/>
+  <path d="M 447.7 356.8 L 489.8 521.2 L 512.0 512.0 Z" fill="#F6F3EA" stroke="#1B4C8C" stroke-width="5"/>
+  <path d="M 447.7 356.8 L 534.2 502.8 L 512.0 512.0 Z" fill="url(#pool)"/>
+  <circle cx="512.0" cy="512.0" r="44" fill="#F6F3EA" stroke="#1B4C8C" stroke-width="9"/>
+  <circle cx="512.0" cy="512.0" r="15" fill="#1B4C8C"/>
+</svg>
