@@ -57,3 +57,11 @@ android/key.properties
 # Internal icon-review galleries — working notes, not part of the project
 assets/icon/concepts/index.html
 assets/icon/windrose/index.html
+
+# Never commit credentials
+.env
+.env.*
+!.env.example
+.dev.vars
+*.pem
+*.key
